@@ -57,6 +57,3 @@ __pycache__/
 v/
 venv/
 env/
-
-# Large ML model artifacts (distributed via GitHub Releases)
-*.joblib

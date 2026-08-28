@@ -21,7 +21,8 @@ sdist/
 var/
 wheels/
 *.egg-info/
-models/
+models/*
+!models/label_encoder.joblib
 .installed.cfg
 *.egg
 
