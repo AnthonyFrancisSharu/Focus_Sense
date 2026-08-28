@@ -8,6 +8,29 @@ reports.
 Final Year Project.
 
 ---
+<img width="975" height="454" alt="image" src="https://github.com/user-attachments/assets/078940f3-d8a0-4794-b37f-4c9decd195c5" />
+
+<img width="975" height="464" alt="image" src="https://github.com/user-attachments/assets/38670393-fc50-4048-96b9-f707aa9805be" />
+
+<img width="975" height="465" alt="image" src="https://github.com/user-attachments/assets/413a7841-1233-48d4-ba49-59cd31afb011" />
+
+<img width="975" height="466" alt="image" src="https://github.com/user-attachments/assets/b2e6297b-29b7-431d-a5c8-96bcb43caec2" />
+
+<img width="975" height="465" alt="image" src="https://github.com/user-attachments/assets/f3045de1-0620-4d14-9e91-f3ca26e53ce8" />
+
+<img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/fe7577f7-d04a-4d35-923b-6158f973989a" />
+
+<img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/06cab354-32d0-49d2-9fc7-135e6ed43067" />
+
+<img width="975" height="469" alt="image" src="https://github.com/user-attachments/assets/71b41bed-46af-426c-b95f-0d83c56424d6" />
+
+<img width="975" height="467" alt="image" src="https://github.com/user-attachments/assets/c2df34c2-01a8-4413-a6d4-dcbac3c5644e" />
+
+<img width="975" height="463" alt="image" src="https://github.com/user-attachments/assets/ef4a1dd8-1bbc-43a3-b9cb-57d0c8256200" />
+
+<img width="1092" height="404" alt="image" src="https://github.com/user-attachments/assets/458d1ee4-0b2b-461f-a0c2-56ec836fc81a" />
+
+<img width="975" height="469" alt="image" src="https://github.com/user-attachments/assets/0c303c20-b4ed-4d5f-9307-23c65a6840b5" />
 
 ## Features
 
